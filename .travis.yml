@@ -24,3 +24,4 @@ before_install:
   # - pip install --user matplotlib
   
 script: ./configure && make && make test
+
